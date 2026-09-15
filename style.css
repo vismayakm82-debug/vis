@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    font-family:Arial;
+    background-color: rgb(65, 153, 153);
+}
+header{
+    text-align:center;
+    background-color: bisque;
+    color:white;
+    padding:15px;
+}
+nav{
+    color:white;
+    background-color: aquamarine;
+    margin:10px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    margin:10px;
+}
+.content{
+    width:70%;
+    margin:25px auto;
+    padding:20px;
+    background-color: beige;
+}
+.button,button{
+    padding: 8px 15px;
+    background-color: rgb(23, 122, 89);
+    color:white;
+    border:none;
+    text-decoration:none ;
+}
+input,select{
+    display:blocks;
+    width:100%;
+    padding:8px;
+    margin:8px 0;
+}
+footer{
+    text-align:center;
+    padding:10px;
+    background-color: bisque;
+    color:white;
+}
+.message{
+    margin-top:15px;
+    padding:10px;
+    background-color: beige;
+    color:rgb(37, 75, 37);
+    text-align: center;
+}
